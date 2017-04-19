@@ -1,0 +1,20 @@
+{
+  "name": "WZY_PHP",
+  "description": "PHP Framework",
+  "type": "Framework",
+  "keywords":[
+    "PHP","PHP Framework"
+  ],
+  "require":{
+    "php": ">=5.3.0",
+    "filp/whoops": "*",
+    "symfony/var-dumper": "*",
+    "phpoffice/phpexcel": "dev-develop"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
